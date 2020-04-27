@@ -8,3 +8,7 @@
   color: blue;
   text-decoration: none;
 }
+.image-link {
+  target="_blank" rel="noopener" 
+  style="text-decoration: none;"
+}
